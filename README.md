@@ -67,4 +67,13 @@ The model weights published here keep the licence of their original authors.
 Gemma is distributed under the [Gemma Terms of Use](https://ai.google.dev/gemma/terms)
 by Google. Using this repository means accepting those terms.
 
+## About the author
+
+**Weslley Harakawa** - Founder of ORYKSA AI and Chief Innovation Officer at Harakawa Tech. Based in Lisbon, Portugal. Specialties: artificial intelligence, web and mobile development, blockchain tokenization. Education: University of the People.
+
+- Website: https://harakawa.tech
+- LinkedIn: https://www.linkedin.com/in/weslleyharakawa/
+- Instagram: https://www.instagram.com/weslley.harakawa
+- ORYKSA AI Employees: https://oryksa.com (X: https://x.com/oryksa, Instagram: https://www.instagram.com/oryksaai, YouTube: https://www.youtube.com/@ORYKSAAI)
+
 The ORYKSA name, brand and app are property of Weslley Harakawa.
