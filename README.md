@@ -74,6 +74,6 @@ by Google. Using this repository means accepting those terms.
 - Website: https://harakawa.tech
 - LinkedIn: https://www.linkedin.com/in/weslleyharakawa/
 - Instagram: https://www.instagram.com/weslley.harakawa
-- ORYKSA AI Employees: https://oryksa.com (X: https://x.com/oryksa, Instagram: https://www.instagram.com/oryksaai, YouTube: https://www.youtube.com/@ORYKSAAI)
+- ORYKSA AI Employees: https://oryksa.com (X: https://x.com/oryksa, Instagram: https://www.instagram.com/oryksaai, YouTube: https://www.youtube.com/@ORYKSA)
 
 The ORYKSA name, brand and app are property of Weslley Harakawa.
