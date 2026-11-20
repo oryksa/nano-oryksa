@@ -1,5 +1,7 @@
 # Nano ORYKSA
 
+[![English](https://img.shields.io/badge/English-0891b2?style=for-the-badge)](README.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-30363d?style=for-the-badge)](README.pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-30363d?style=for-the-badge)](README.es.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-30363d?style=for-the-badge)](README.fr.md)
+
 **The offline AI of the ORYKSA mobile app.**
 
 When the phone loses signal - on a plane, in a tunnel, in a basement - the ORYKSA
